@@ -181,7 +181,7 @@
               <goal>site</goal>
             </goals>
             <configuration>
-              <outputDirectory>/home/sanjeev/eclipse-workspace/DemoMaven/target/site</outputDirectory>
+              <outputDirectory>/home/sanjeev/myprog</outputDirectory>
               <reportPlugins>
                 <reportPlugin>
                   <groupId>org.apache.maven.plugins</groupId>
@@ -197,7 +197,7 @@
               <goal>deploy</goal>
             </goals>
             <configuration>
-              <outputDirectory>/home/sanjeev/eclipse-workspace/DemoMaven/target/site</outputDirectory>
+              <outputDirectory>/home/sanjeev/myprog</outputDirectory>
               <reportPlugins>
                 <reportPlugin>
                   <groupId>org.apache.maven.plugins</groupId>
@@ -208,7 +208,7 @@
           </execution>
         </executions>
         <configuration>
-          <outputDirectory>/home/sanjeev/eclipse-workspace/DemoMaven/target/site</outputDirectory>
+          <outputDirectory>/home/sanjeev/myprog</outputDirectory>
           <reportPlugins>
             <reportPlugin>
               <groupId>org.apache.maven.plugins</groupId>
@@ -220,7 +220,7 @@
     </plugins>
   </build>
   <reporting>
-    <outputDirectory>/home/sanjeev/eclipse-workspace/DemoMaven/target/site</outputDirectory>
+    <outputDirectory>/home/sanjeev/myprog</outputDirectory>
   </reporting>
 </project>
 
